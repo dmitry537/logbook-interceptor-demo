@@ -1,7 +1,4 @@
 logbook:
   format:
     style: http
-  include:
-    - /api/**
-    - /callback/**
 logging.level.org.zalando.logbook: TRACE
